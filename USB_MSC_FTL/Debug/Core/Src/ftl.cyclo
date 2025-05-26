@@ -1,0 +1,6 @@
+../Core/Src/ftl.c:19:6:FTL_Init	2
+../Core/Src/ftl.c:26:5:FTL_Read	4
+../Core/Src/ftl.c:42:5:FTL_Write	6
+../Core/Src/ftl.c:80:12:Find_Free_Page	4
+../Core/Src/ftl.c:94:13:FTL_GarbageCollect	12
+../Core/Src/ftl.c:152:6:FTL_Dump_Status	4
